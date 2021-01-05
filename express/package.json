@@ -9,7 +9,7 @@
   },
   "author": "Rogerio Rodrigues <sp.rogerio@outlook.com>",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "express": "^4.17.1",
     "express-rate-limit": "^5.0.0"
   },
